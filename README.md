@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 :star: 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonJH7&show_icons=true&theme=radical)
+
+![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username={github_username}&layout=compact)
+
 <!--
 **SonJH7/SonJH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
