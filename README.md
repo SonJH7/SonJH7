@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=SON%20JEONG%20HUN%20%20%F0%9F%A4%97)
 
-:trophy:
+:trophy: Awards
+-지역현안 Capstone Design 경진대회 장려상
 
 :star::star: Certificates
 - ADSP
