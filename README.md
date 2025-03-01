@@ -11,7 +11,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjhjhh123)](https://solved.ac/sjhjhh123/)
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <!--
 **SonJH7/SonJH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
