@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
-:star: 
+:star::star: Certificates
+- ADSP
+- SQLD
 
 ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonJH7&layout=compact)
 
