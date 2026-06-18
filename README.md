@@ -7,6 +7,15 @@
 - ADSP
 - SQLD
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%86%90-981aa337a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sjunh02@naver.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SonJH7&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjhjhh123)](https://solved.ac/sjhjhh123/)
